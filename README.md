@@ -131,7 +131,7 @@ public class FileIOMain {
 If we run the code above, we'll see that it prints the content of the
 `simple.txt` file that we just wrote to:
 
-```plaintext
+```text
 example of writing to a file.
 ```
 
@@ -207,7 +207,7 @@ Currently, the `simple.txt` file has the names Leslie, Ron, and Ann in the file,
 each on a separate line. So let's see what the output of this code is when we
 use the `readAllLines()` method:
 
-```plaintext
+```text
 There are 3 lines in the file.
 Leslie
 Ron
